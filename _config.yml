@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
+title: Wong
+subtitle: 
+description: The best way to learn something is trying to teach it 
+author: MR. Wong
 language:
 timezone:
 
@@ -51,7 +51,7 @@ tag_map:
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
-## http://momentjs.com/docs/#/displaying/format/
+## http://momentjs.com/Docs/#/displaying/format/
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
