@@ -1,7 +1,7 @@
 ---
 title: new in javascript
 date: 2016-11-21 10:15:06
-tags: js
+tags: JS
 ---
 ## 语法
 {% codeblock %}

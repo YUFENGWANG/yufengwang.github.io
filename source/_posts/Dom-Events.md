@@ -1,7 +1,7 @@
 ---
 title: Dom Events
 date: 2016-11-14 21:00:54
-tags:
+tags: JS
 ---
 
 Given the dom structure likes below:
