@@ -1,5 +1,5 @@
 ---
-title: new in javascript
+title: New in javascript
 date: 2016-11-21 10:15:06
 tags: JS
 ---

@@ -4,7 +4,7 @@ date: 2016-11-14 21:00:54
 tags: JS
 ---
 
-Given the dom structure likes below:
+Given the dom structure as below:
 
 ![dom structure](/images/event-1.png  "dom structure")
 
