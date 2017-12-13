@@ -18,7 +18,7 @@ git branch -d <branch_name>
 ## git delete remote branch
 
 git push <remote_name> :<branch_name>
-## git confict
+## git conflict
 
 git push 产生冲突
 原因：　本地和远程对同一文件的修改不一致
@@ -51,6 +51,13 @@ rake db:setup
   - rake db:create
   - rake db:schema:load
   - rake db:seed
+
+## oop
+public: 公有方法，当前类的所有实例可以调用
+private: 私有方法，内部辅助方法,只能在类定义的内部使用
+protected: 受保护方法，当前类及其子类内部调用
+@:　实例变量
+@@: 类变量
 
 
 #  Linux:
@@ -100,6 +107,11 @@ If a program ended while returning a non-zero value, it means that the program w
 
 16-bit unsigned intergers
 blob: binary large object
+
+# misc
+sign in: 登录
+sign up: 注册
+sign out: 登出
 
 
 
